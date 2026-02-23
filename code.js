@@ -59,3 +59,17 @@ console.log(c) ;
 
 c**= 2 ; 
 console.log(c) ;
+
+//comaprison operator
+
+let d = 10 ;
+let e = 20 ;
+
+console.log(d == e) ; // equal to
+console.log(d != e) ;
+console.log(d > e) ;
+console.log(d < e) ;
+console.log(d >= e) ;
+console.log(d <= e) ;
+
+// logical operator
