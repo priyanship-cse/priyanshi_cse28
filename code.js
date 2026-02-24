@@ -73,3 +73,7 @@ console.log(d >= e) ;
 console.log(d <= e) ;
 
 // logical operator
+
+// string operators
+
+// ternary operator 
